@@ -4,8 +4,8 @@
 
 | Name  | Engine | Connect | Owner | Comment
 |------|---------|-------|--------|--------
-| ARMAGEDDON | [reHLDS](https://github.com/dreamstalker/rehlds) + bugfixedHLrelease [forum](http://aghl.ru/forum/viewtopic.php?f=32&t=686), [files](http://aghl.ru/files/patches/BugfixedHL/) | ip.games.epicm.org:1018 | [EpicMorg](https://vk.com/epicmorg_games) | Classic public server
-| RAGNAROK | [reHLDS](https://github.com/dreamstalker/rehlds) + bugfixedHLrelease [forum](http://aghl.ru/forum/viewtopic.php?f=32&t=686), [files](http://aghl.ru/files/patches/BugfixedHL/) | ip.games.epicm.org:1666 | [EpicMorg](https://vk.com/epicmorg_games) | [GunGame](http://aghl.ru/forum/viewtopic.php?p=9328) Mod
+| ARMAGEDDON | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:1018 | [EpicMorg](https://vk.com/epicmorg_games) | [Bugfixed and improved](http://aghl.ru/forum/viewtopic.php?f=32&t=686) [HL release](http://aghl.ru/files/patches/BugfixedHL/). Classic public server
+| RAGNAROK | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:1666 | [EpicMorg](https://vk.com/epicmorg_games) | [Bugfixed and improved](http://aghl.ru/forum/viewtopic.php?f=32&t=686) [HL release](http://aghl.ru/files/patches/BugfixedHL/). [GunGame](http://aghl.ru/forum/viewtopic.php?p=9328) Mod
 | Leviathan |  [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:2517 |  [EpicMorg](https://vk.com/epicmorg_games) | [ZXC](https://github.com/ZXCmod) Mod
 
 ## [Ricochet](http://store.steampowered.com/app/60/Ricochet/)
