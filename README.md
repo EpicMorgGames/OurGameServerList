@@ -23,12 +23,7 @@
 |------|---------|-------|--------|--------
 | Natural Selection Classic | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27231 | [Alex_Z](https://github.com/Aleks-Z) | -
 
-## Source-based games
- 
-
-## Other games
-
-###  [Stargate Resistance](http://stargateresistance.us/) 
+##  [Stargate Resistance](http://stargateresistance.us/) 
 
 Official Russian Community's server :v: :smile:
 
