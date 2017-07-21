@@ -17,12 +17,12 @@
 ## Other games
 
 ### Stargate Resistance
-| Name | Game | Type | Status | Hoster | Comment
-|------|------|------|--------|--------|--------
-| ru0spb1	| [Stargate Resistance](http://stargateresistance.us/index.html) | Whiteout	Capture the Tech | Active | [EpicMorg](https://vk.com/epicmorg_games) | 
-| ru0spb2	| [Stargate Resistance](http://stargateresistance.us/index.html) | Whiteout	Team Deathmatch | Active | [EpicMorg](https://vk.com/epicmorg_games) | 
-| ru0spb3	| [Stargate Resistance](http://stargateresistance.us/index.html) | Temple	Team Deathmatch | Active | [EpicMorg](https://vk.com/epicmorg_games) | 
-| ru0spb4	| [Stargate Resistance](http://stargateresistance.us/index.html) | Court	Team Deathmatch | Active | [EpicMorg](https://vk.com/epicmorg_games) | 
-| ru0spb5	| [Stargate Resistance](http://stargateresistance.us/index.html) | Court	Arena | Active | [EpicMorg](https://vk.com/epicmorg_games) | 
-| ru0spb6	| [Stargate Resistance](http://stargateresistance.us/index.html) | SGC	Conquest | Active | [EpicMorg](https://vk.com/epicmorg_games) | 
-| ru0spb7	| [Stargate Resistance](http://stargateresistance.us/index.html) | SGC	Team Deathmatch | Active | [EpicMorg](https://vk.com/epicmorg_games) | 
+| Name | Game | Type | Connect | Status | Hoster | Comment
+|------|------|------|---------|--------|--------|--------
+| ru0spb1	| [Stargate Resistance](http://stargateresistance.us/index.html) | Whiteout	Capture the Tech | Via game client | Active | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
+| ru0spb2	| [Stargate Resistance](http://stargateresistance.us/index.html) | Whiteout	Team Deathmatch | Via game client | Active | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
+| ru0spb3	| [Stargate Resistance](http://stargateresistance.us/index.html) | Temple	Team Deathmatch | Via game client | Active | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
+| ru0spb4	| [Stargate Resistance](http://stargateresistance.us/index.html) | Court	Team Deathmatch | Via game client | Active | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
+| ru0spb5	| [Stargate Resistance](http://stargateresistance.us/index.html) | Court	Arena | Via game client | Active | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
+| ru0spb6	| [Stargate Resistance](http://stargateresistance.us/index.html) | SGC	Conquest | Via game client | Active | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
+| ru0spb7	| [Stargate Resistance](http://stargateresistance.us/index.html) | SGC	Team Deathmatch | Via game client | Active | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
