@@ -1,28 +1,43 @@
 # List of our servers
 
-## GoldSource-based games
+## [Half-Life](http://store.steampowered.com/app/70/HalfLife/)
 
-| Name | Game | Engine | Connect | Owner | Comment
-|------|--------|---------|-------|--------|--------
-| ARMAGEDDON | [Half-Life](http://store.steampowered.com/app/70/HalfLife/) | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:1018 | [EpicMorg](https://vk.com/epicmorg_games) | Classic public server
-| RAGNAROK | [Half-Life](http://store.steampowered.com/app/70/HalfLife/) | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:1666 | [EpicMorg](https://vk.com/epicmorg_games) | [GunGame](http://aghl.ru/forum/viewtopic.php?p=9328) Mod
-| Leviathan | [Half-Life](http://store.steampowered.com/app/70/HalfLife/) | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:2517 |  [EpicMorg](https://vk.com/epicmorg_games) | [ZXC](https://github.com/ZXCmod) Mod
-| Ricochet Classic | [Ricochet](http://store.steampowered.com/app/60/Ricochet/) | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27234 |  [Alex_Z](https://github.com/Aleks-Z) | -
-| The Specialists | [The Specialists](http://www.moddb.com/mods/the-specialists/downloads) | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27722 | [Alex_Z](https://github.com/Aleks-Z) | -
-| Natural Selection Classic | [Natural Selection](https://unknownworlds.com/ns/) | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27231 | [Alex_Z](https://github.com/Aleks-Z) | -
+| Name  | Engine | Connect | Owner | Comment
+|------|---------|-------|--------|--------
+| ARMAGEDDON | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:1018 | [EpicMorg](https://vk.com/epicmorg_games) | Classic public server
+| RAGNAROK | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:1666 | [EpicMorg](https://vk.com/epicmorg_games) | [GunGame](http://aghl.ru/forum/viewtopic.php?p=9328) Mod
+| Leviathan |  [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:2517 |  [EpicMorg](https://vk.com/epicmorg_games) | [ZXC](https://github.com/ZXCmod) Mod
+
+## [Ricochet](http://store.steampowered.com/app/60/Ricochet/)
+| Name  | Engine | Connect | Owner | Comment
+|------|---------|-------|--------|--------
+| Ricochet Classic | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27234 |  [Alex_Z](https://github.com/Aleks-Z) | -
+
+## [The Specialists](http://www.moddb.com/mods/the-specialists/downloads) 
+| Name  | Engine | Connect | Owner | Comment
+|------|---------|-------|--------|--------
+| The Specialists | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27722 | [Alex_Z](https://github.com/Aleks-Z) | -
+
+## [Natural Selection](https://unknownworlds.com/ns/)
+| Name  | Engine | Connect | Owner | Comment
+|------|---------|-------|--------|--------
+| Natural Selection Classic | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27231 | [Alex_Z](https://github.com/Aleks-Z) | -
 
 ## Source-based games
  
 
 ## Other games
 
-### Stargate Resistance
-| Name | Game | Type | Connect | Hoster | Comment
-|------|------|------|---------|--------|--------
-| ru0spb1	| [Stargate Resistance](http://stargateresistance.us/index.html) | Whiteout	Capture the Tech | Via game client| [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
-| ru0spb2	| [Stargate Resistance](http://stargateresistance.us/index.html) | Whiteout	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
-| ru0spb3	| [Stargate Resistance](http://stargateresistance.us/index.html) | Temple	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
-| ru0spb4	| [Stargate Resistance](http://stargateresistance.us/index.html) | Court	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
-| ru0spb5	| [Stargate Resistance](http://stargateresistance.us/index.html) | Court	Arena | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
-| ru0spb6	| [Stargate Resistance](http://stargateresistance.us/index.html) | SGC	Conquest | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
-| ru0spb7	| [Stargate Resistance](http://stargateresistance.us/index.html) | SGC	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | Official Russian Community's server :v: :smile:
+###  [Stargate Resistance](http://stargateresistance.us/) 
+
+Official Russian Community's server :v: :smile:
+
+| Name | Type | Connect | Hoster | Comment
+|------|------|---------|--------|--------
+| ru0spb1	| Whiteout	Capture the Tech | Via game client| [EpicMorg](https://vk.com/epicmorg_games) | 
+| ru0spb2	| Whiteout	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | 
+| ru0spb3	| Temple	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) |
+| ru0spb4	| Court	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) |
+| ru0spb5	| Court	Arena | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | 
+| ru0spb6	| SGC	Conquest | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | 
+| ru0spb7	| SGC	Team Deathmatch | Via game client | [EpicMorg](https://vk.com/epicmorg_games) | 
