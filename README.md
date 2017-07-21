@@ -25,7 +25,7 @@
 
 ##  [Stargate Resistance](http://stargateresistance.us/) 
 
-Official Russian Community's server :v: :smile:
+Official Russian Community's servers :v: :smile:
 
 | Name | Type | Connect | Hoster | Comment
 |------|------|---------|--------|--------
