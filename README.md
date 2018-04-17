@@ -1,6 +1,6 @@
 # List of our servers
 
-## [Half-Life](http://store.steampowered.com/app/70/HalfLife/)
+## [Half-Life](http://store.steampowered.com/app/70/)
 
 | Name  | Engine | Connect | Owner | Comment
 |------|---------|-------|--------|--------
@@ -8,7 +8,14 @@
 | RAGNAROK | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:1666 | [EpicMorg](https://vk.com/epicmorg_games) | [Bugfixed and improved](http://aghl.ru/forum/viewtopic.php?f=32&t=686) [HL release](http://aghl.ru/files/patches/BugfixedHL/). [GunGame](http://aghl.ru/forum/viewtopic.php?p=9328) Mod
 | Leviathan |  [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:2517 |  [EpicMorg](https://vk.com/epicmorg_games) | [ZXC](https://github.com/ZXCmod) Mod. Unstable :confused:
 
-## [Ricochet](http://store.steampowered.com/app/60/Ricochet/)
+
+## [7 Days To Die](http://store.steampowered.com/app/251570/)
+
+| Name  | Connect | Owner | Comment
+|------|-------|--------|--------
+| Torch Tower |  ip.games.epicm.org:26900 | [EpicMorg](https://vk.com/epicmorg_games) | TBD
+
+## [Ricochet](http://store.steampowered.com/app/60/)
 | Name  | Engine | Connect | Owner | Comment
 |------|---------|-------|--------|--------
 | Ricochet Classic | [reHLDS](https://github.com/dreamstalker/rehlds) | ip.games.epicm.org:27234 |  [Alex_Z](https://github.com/Aleks-Z) | -
